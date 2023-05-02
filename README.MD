@@ -59,4 +59,4 @@ Give a ⭐️ if this project helped you or join his [Discord](https://discord.c
 # 📝 License
 
 Copyright © 2021 [BestGithubUser1](https://github.com/BestGithubUser1).<br />
-This project is [GPL-3.0](https://github.com/iK4oS/backdoor.exe/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/BestGithubUser1/backdoormodded/blob/main/LICENSE) licensed.
