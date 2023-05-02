@@ -13,7 +13,7 @@ local G2L = {};
 -- StarterGui.backdoor.exe v8
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
 G2L["1"]["ResetOnSpawn"] = false;
-G2L["1"]["Name"] = [[Modded backdoor.exe v1]];
+G2L["1"]["Name"] = [[backdoor.exe Vmodded]];
 G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 
 -- StarterGui.backdoor.exe v8.Main
@@ -108,7 +108,7 @@ G2L["b"]["TextSize"] = 20;
 G2L["b"]["TextColor3"] = Color3.fromRGB(78, 78, 78);
 G2L["b"]["AnchorPoint"] = Vector2.new(0.5, 0.5);
 G2L["b"]["Size"] = UDim2.new(1, 0, 0.6330000162124634, 0);
-G2L["b"]["Text"] = [[Modded backdoor.exe - v1.0.0]];
+G2L["b"]["Text"] = [[backdoor.exe - Vmodded]];
 G2L["b"]["Name"] = [[VersionTitle]];
 G2L["b"]["Font"] = Enum.Font.Roboto;
 G2L["b"]["BackgroundTransparency"] = 1;
