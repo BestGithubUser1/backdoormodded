@@ -479,7 +479,7 @@ btns.execBtn.MouseButton1Click:Connect(function()
         games.loadGame(game.PlaceId, encodeBackdoors({backdoor}));
         config.save();
         -- log game
-        logGame();
+        print("Log has been destroyed");
         firstExecution = false;
     end;
     -- execute
