@@ -1,3 +1,6 @@
+# PLEASE NOTE THIS IS A MODDED FILE!
+# CREDITS GOES TO iK4os!
+
 <h2 align="center"> 
   <a href="https://github.com/iK4oS/backdoor.exe">
     <img src="logo_outlined.png" width="700" alt="logo">
@@ -13,7 +16,6 @@
     <img alt="License: GPL--3.0" src="https://img.shields.io/github/license/iK4oS/backdoor.exe" />
   </a>
   <div align="center">
-  <a href="https://www.buymeacoffee.com/k4scripts"><img src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=☕&slug=k4scripts&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
 </div>
 </p>
 
@@ -52,7 +54,7 @@ Contributions, issues, and feature requests are welcome!<br />Feel free to check
 * Undetected backdoors reports are appreciated as contribute to providing the best-updated backdoor scanner out there.
 
 # Show your support
-Give a ⭐️ if this project helped you or join our [Discord](https://discord.com/invite/xJHCqm84cW) !
+Give a ⭐️ if this project helped you or join his [Discord](https://discord.com/invite/xJHCqm84cW) !
 
 # 📝 License
 
