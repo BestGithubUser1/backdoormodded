@@ -58,5 +58,5 @@ Give a ⭐️ if this project helped you or join his [Discord](https://discord.c
 
 # 📝 License
 
-Copyright © 2021 [iK4oS](https://github.com/iK4oS).<br />
+Copyright © 2021 [BestGithubUser1](https://github.com/BestGithubUser1).<br />
 This project is [GPL-3.0](https://github.com/iK4oS/backdoor.exe/blob/master/LICENSE) licensed.
